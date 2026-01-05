@@ -1,0 +1,9 @@
+export { LandingPage } from './landing-page';
+export { DashboardPage } from './dashboard-page';
+export { AdminUsersPage } from './admin-users-page';
+export { ProfilePage } from './profile-page';
+export { SettingsPage } from './settings-page';
+export { LoginPage } from './login-page';
+export { RegisterPage } from './register-page';
+export { ForgotPasswordPage } from './forgot-password-page';
+export { ResetPasswordPage } from './reset-password-page';
